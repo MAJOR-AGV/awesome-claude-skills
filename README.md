@@ -201,6 +201,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [Tailored Resume Generator](./tailored-resume-generator/) - Analyzes job descriptions and generates tailored resumes that highlight relevant experience, skills, and achievements to maximize interview chances.
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
 - [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.
+- [Anti Brain Fry](https://github.com/MAJOR-AGV/anti-brain-fry) - Ends every task with a 5-second card: why the task was launched, what is done, and one single decision with two answers. Built against "AI brain fry", the fatigue of overseeing several agents. English and French. *By [@MAJOR-AGV](https://github.com/MAJOR-AGV)*
 
 ### Collaboration & Project Management
 
